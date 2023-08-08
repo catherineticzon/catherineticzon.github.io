@@ -24,4 +24,4 @@ Hi there! I'm Catherine. Here's a little bit about me:
 * Currently pursuing a Master of Science in Data Science 
 * Hobbies include: working out, running, yoga, bouldering, reading & taking care of my plants 
 
-Check out the *projects* tab to see what I've been working on! 
+Check out the **projects** tab to see what I've been working on! 
