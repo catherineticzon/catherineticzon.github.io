@@ -19,7 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! I'm Catherine. Living in Dallas but originally from Seattle. 
+Hi there! I'm Catherine. A little bit about me: 
+* Living in Dallas but originally from Seattle
 * Working as an Evaluation Coordinator at the Center on Research and Evaluation at SMU
 * Currently pursuing a Master of Science in Data Science 
 * Hobbies include: working out, running, yoga, bouldering, reading & taking care of my plants 
