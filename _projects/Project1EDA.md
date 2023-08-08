@@ -1,4 +1,12 @@
-﻿--- layout: page title: Beers & Breweries Case Study description: Project 1: Beers and Breweries Case Study img: beer.jpg importance: 1 category: work --- 
+--- 
+layout: page 
+title: Beers & Breweries Case Study 
+description: Project 1: Beers and Breweries Case Study 
+img: beer.jpg 
+importance: 1 
+category: work 
+-- 
+
 # DDS Project 1: Beers and Breweries
 #### Stephanie Duarte and Catherine Ticzon
 #### 2023-06-19
