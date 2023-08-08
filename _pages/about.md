@@ -23,3 +23,5 @@ Hi there! I'm Catherine. A little bit about me:
 * Working as an Evaluation Coordinator at the Center on Research and Evaluation at SMU
 * Currently pursuing a Master of Science in Data Science 
 * Hobbies include: working out, running, yoga, bouldering, reading & taking care of my plants 
+
+Check out the *projects* tab to see what I've been working on! 
