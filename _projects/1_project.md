@@ -8,6 +8,8 @@ category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
+<!DOCTYPE html>
+
 <html>
 
 <head>
