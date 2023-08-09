@@ -1,11 +1,13 @@
---- 
-layout: page 
-title: Beers & Breweries Case Study 
-description: Project 1: Beers and Breweries Case Study 
-img: beer.jpg 
-importance: 1 
-category: work 
--- 
+---
+layout: page
+title: beers & breweries
+description: Case Study 1: Beers and Breweries 
+img: 
+importance: 1
+category: work
+related_publications: einstein1956investigations, einstein1950meaning
+---
+
 
 # DDS Project 1: Beers and Breweries
 #### Stephanie Duarte and Catherine Ticzon
