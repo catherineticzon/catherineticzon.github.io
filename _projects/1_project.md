@@ -2,7 +2,7 @@
 layout: page
 title: beers & breweries
 description: Case Study 1: Beers and Breweries 
-img: assets/beer.jpg
+img: 
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
