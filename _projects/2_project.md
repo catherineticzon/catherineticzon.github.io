@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 2
+title: beers & breweries 
 description: beers and breweries 
 img: assets/img/3.jpg
 importance: 2
