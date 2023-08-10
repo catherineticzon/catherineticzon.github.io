@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: employee attrition
+description: a case study on employee attrition 
+img: assets/img/attrition.jpeg
+importance: 2
 importance: 3
 category: work
 ---
