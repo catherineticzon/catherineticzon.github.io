@@ -1,8 +1,8 @@
 ---
 layout: page
 title: beers & breweries 
-description: beers and breweries 
-img: assets/img/3.jpg
+description: a case study on beers and breweries in the U.S. 
+img: assets/img/beer.jpg
 importance: 2
 category: work
 giscus_comments: true
