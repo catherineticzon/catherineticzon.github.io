@@ -1,8 +1,8 @@
 ---
 layout: page
 title: project 2
-description: Case Study 1: Beers and Breweries 
-img: beer.jpg
+description: beers and breweries 
+img: assets/img/3.jpg
 importance: 2
 category: work
 giscus_comments: true
