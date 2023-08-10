@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: rshiny app 
+description: click here for rshiny code and app for beers & breweries case study
 img:
 importance: 3
 category: fun
