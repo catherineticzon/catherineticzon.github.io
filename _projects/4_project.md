@@ -1,9 +1,10 @@
 ---
 layout: page
 title: project 4
-description: rshiny app for beers and breweries case study 
+description: another without an image
 img:
 importance: 3
+category: fun
 redirect: https://catherineticzon.shinyapps.io/FLS12/ 
 ---
 
