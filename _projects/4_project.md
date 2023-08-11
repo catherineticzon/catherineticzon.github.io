@@ -1,7 +1,7 @@
 ---
 layout: page
-title: rshiny app 
-description: click here for rshiny code and app for beers & breweries case study
+title: rshiny app 1
+description: rshiny code and app for beers & breweries case study
 img:
 importance: 3
 category: fun

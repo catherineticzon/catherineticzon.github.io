@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: rshiny app 2 
+description: rshiny code and app for employee attrition case study 
 img:
 importance: 4
 category: fun
