@@ -2,7 +2,7 @@
 layout: page
 title: rshiny app 1
 description: rshiny code and app for beers & breweries case study
-img: assets/img/1.jpg
+img: assets/img/rshiny1.JPG
 importance: 3
 category: fun
 redirect: https://catherineticzon.shinyapps.io/FLS12/ 
