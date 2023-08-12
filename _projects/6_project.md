@@ -5,7 +5,7 @@ description: rshiny app for employee attrition case study
 img: assets/img/shiny2.png 
 importance: 4
 category: fun
-redirect: https://catherineticzon.shinyapps.io/CaseStudy2/
+redirect: https://catherineticzon.shinyapps.io/CaseStudy2RShinyApp/
 ---
 
 Every project has a beautiful feature showcase page.
