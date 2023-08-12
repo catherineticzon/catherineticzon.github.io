@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: rshiny app 2 
+description: rshiny code and app for employee attrition case study 
 img: assets/img/1.jpg
 importance: 3
 category: fun
+redirect: https://catherineticzon.shinyapps.io/CaseStudy2/ 
 ---
 
 Every project has a beautiful feature showcase page.
