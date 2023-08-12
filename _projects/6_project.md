@@ -1,8 +1,8 @@
 ---
 layout: page
 title: rshiny app 2 
-description: rshiny code and app for employee attrition case study 
-img:
+description: rshiny app for employee attrition case study 
+img: assets/img/shiny2.png 
 importance: 4
 category: fun
 redirect: https://catherineticzon.shinyapps.io/CaseStudy2/
