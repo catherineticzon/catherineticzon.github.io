@@ -406,8 +406,8 @@ library(tidyverse)</code></pre>
 <pre class="r"><code>library(dplyr)
 library(ggplot2)
 
-Sys.setenv(&quot;AWS_ACCESS_KEY_ID&quot; = &quot;AKIASVYTN36XDQAIQH4K&quot;,
-           &quot;AWS_SECRET_ACCESS_KEY&quot; = &quot;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&quot;,
+Sys.setenv(&quot;AWS_ACCESS_KEY_ID&quot; = &quot#########&quot;,
+           &quot;AWS_SECRET_ACCESS_KEY&quot; = &quot;############;,
            &quot;AWS_DEFAULT_REGION&quot; = &quot;us-east-2&quot;)
 
 # Need AWS_DEFAULT_REGION or else Error when loading in data from s3:
